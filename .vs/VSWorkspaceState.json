@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\app",
+    "\\src\\features",
+    "\\src\\features\\quote"
+  ],
+  "SelectedNode": "\\src\\features\\quote\\quoteSlice.ts",
+  "PreviewInSolutionExplorer": false
+}
